@@ -1,4 +1,4 @@
-# Web Development Project 5 - *Name of App Here*
+# Web Development Project 5 - *Weather-App*
 
 Submitted by: **Annaly Rocha**
 
@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![hw5](https://github.com/annalyrocha/lab6/assets/143360617/2e4766fe-2292-49a4-96c5-40e8f5c35214)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
